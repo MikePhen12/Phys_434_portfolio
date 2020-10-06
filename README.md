@@ -1,2 +1,2 @@
-# Phys434_portfolio
+# Phys_434_portfolio
 Portfolio following lab work done in Physics 434 for Fall 2020. 
